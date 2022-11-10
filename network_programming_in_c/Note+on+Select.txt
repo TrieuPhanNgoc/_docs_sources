@@ -1,0 +1,10 @@
+why first argument to select is max(readfds) + 1 ? 
+
+suppose readfds contains the set of open file descriptors by a program - lets say, these are - 3 , 6 , 9.
+so, max(readfds) will return 9. 
+
+select(max(readfds), . . . )   will monitor all file Desc open by the program in the range [0 , max(readfds)) i.e. from 0 to 8. Therefore, FD 9 shall not be monitored.
+Therefore, to allow the select to monitor the FD 9, we need to invoke select as :
+select(max(readfds) + 1 , . . . )  so that this will monitor FD in the set [0, 9]
+
+Basically, the first option of select is the number of FDs to be monitored by select staring from zero. 
