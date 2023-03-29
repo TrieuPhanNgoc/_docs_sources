@@ -1,0 +1,33 @@
+Chào mọi người.
+Do có thêm nhiều dự án mới nên giáo sư muốn tuyển thêm sinh viên Ms, PhD, Combine. Giới thiệu cơ bản về lab và giáo sư như sau.
+1). Gyungsu Byun ICS Lab INHA UNIVERSITY.
+Department of Electronic and Computer Engineering (ECE), Inha University, Incheon, South Korea.
+Hiện lab có 1 post-doc (người việt), 2 sinh viên PhD (người việt), 1 sinh viên MS (người hàn ) và 2 sinh viên undergraduate (người hàn).
+Hướng nghiên cứu của lab tập trung vào 2 mảng chính:
+Thiết kế ic analog sử dụng phần mềm cadence virtuoso và công nghệ 28nn.
+Thiết kế phần cứng và ứng dụng: bao gồm thiết kế pcb, firmware, software cho MCU, embedded system, FPGA, deep learning.
+Các dự án của lab hiện tại bao gồm:
+Smart Artificial Intelligent (AI) electronics (coding-based smart IC and system design for future mobile smart communication and computing electronics)
+Ultra-low-power compact neural-synaptic communication IC and system design
+High-performance memory/CPU interface for high-computing systems
+Intelligent RF communication systems.
+Smart healthcare system (biosensing + AI + IoT).
+Advanced driver-assistance systems (ADAS) (Deep learning + Wireless communication + Smart sensing).
+Autonomous vehicle system (self-driving car) (6G + AI).
+Đối với các dự án liên quan tới thiết kế analog ic sẽ được giáo sư hướng dẫn trực tiếp và làm việc với sinh viên PhD nhiều kinh nghiệm.
+Đối với dự án khác có thể được phân công làm việc với post-doc người việt.
+Các dự án của lab hiện tại đều rất hot tập trung vào các topic đang thu hút được sự quan tâm trong hiện tại như: smart healcare system, AI, IoT, ADAS, autonomous, high performance memory, etc. Đây là lợi thế lớn cho các bạn khi muốn có nhiều publication và dễ xin việc sau khi tốt nghiệp.
+2). Giới thiệu cơ bản về giáo sư như sau:
+Giáo sư sống ở Mỹ khoảng 23 năm (có quốc tịch Mỹ), đã từng là giáo sư của đại học Southern Methodist University (SMU).
+Giáo sư khá trẻ và nhiệt tình nên sẽ hướng dẫn sinh viên khá nhiệt tình. Khả năng tiếng anh rất tốt nên sẽ hỗ trợ trực tiếp trong quá trình sinh viên viết báo.
+3). Yêu cầu khi nộp hồ sơ trợ cấp sinh hoạt phí
+English score (> TOEIC 700, IELTS 5.5, NEW TEPS 327, TOEFL IBT 71 above) -> Đây là yêu cầu bắt buộc của trường. Học phí còn lại sẽ được giáo sư trả.
+Sinh hoạt phí cho sinh viên PhD tầm 1,6tr won (khoảng 32 tr VND), master 1,1tr won (khoảng 22 tr VND), combine 1,1tr 2 năm đầu và 1,6tr những năm sau.
+4). Chế độ làm việc và điều kiện tốt nghiệp.
+Đa phần giáo sư yêu cầu làm việc giờ hành chính: từ 9h tới 6h chiều, từ thứ 2 tới thứ 6. Thứ 7, cn, tối có thể không cần lên lab làm việc. Tuy nhiên, đây là yêu cầu tối thiểu, nếu bạn muốn có kết quả tốt hơn thì cần nỗ lực nhiều hơn.
+Điều kiện tốt nghiệp:
+for PhD, two papers such as IEEE JSSC, IEEE TCAS1 or IEEE TCAS2 or same as three IEEE Access papers during PhD (3 years)-> Sinh viên PhD có thể tốt nghiệp trong 3 năm.
+- for MS/PhD-combined, four IEEE Access papers during MS/PhD-combined. (4-4.5 years)-> Sinh viên combine có thể tốt nghiệp trong 4-.4,5 năm.
+Lưu ý: Vì điều kiện tốt nghiệp của giáo sư đưa ra tương đối rõ ràng nên thời gian tốt nghiệp phụ thuộc trực tiếp vào kết quả làm việc của sinh viên không hẳn phụ thuộc vào số năm ở lab
+5). Liên hệ
+Hồ sơ các bạn gởi về email: buingocthang1984@gmail.com.

@@ -1,0 +1,60 @@
+Thông tin học bổng PhD, Ms-PhD combined
+2022 Opening Notice
+Gyungsu Byun ICS Lab INHA UNIVERSITY
+Department of Electronic and Computer Engineering (ECE), Inha University, Incheon, South Korea
+(Home) http://mics.inha.ac.kr/
+(University) http://www.inha.ac.kr
+(Email:) gsbyun@inha.ac.kr
+
+• Multiple GRA positions (4 PhD students for circuit and 2 PhD students for AI/IoT system)
+For circuit area: If you're interested in our research, please see Prof. Byun’s research web-page
+(http://mics.inha.ac.kr ) and send your elaborated resume and contact him. The strongest candidate will have
+below knowledge.
+	o Must: 1) Circuit theory 2) electric circuit 3) analog/digital circuit design experience
+	o Must: Basic analog electric circuit design tool knowledge (SPICE, Cadence, SoC, Verilog/VHDL)
+	o Analog IC design and RF-IC design knowledge (5G and 6G Wireless Transceiver)
+	For system area:
+	o Embedded system designs: MCU/IoT system implement (FPGA, MCUs)
+	o Programming Python (or C/C++ or other equivalent SW coding languages)
+	o Embedded Verification tools
+
+• Key research projects
+		o Analog/mixed-signal IC design for high-performance computing system
+		o Ultra-low-power analog and digital integrated circuit and system design
+		o High-performance memory/CPU interface for high-computing systems
+		o Design and implement Internet of Thing (IoT) system & Wearable devices in healthcare
+
+• Key documents: Please send the following credentials (gsbyun@inha.ac.kr)o Resume (including your BS/MS research project experiences)
+	o Scanned BS/MS transcripts (for PhD, or MS-PhD combined)
+	o Scanned English score (> TOEIC 700, IELTS 5.5, NEW TEPS 327, TOEFL IBT 71 above)
+
+• Key benefits
+	o (Tuition) Your MS/PhD tuition are fully covered
+	o (Salary) Your monthly competitive salary will be supported during PhD
+	- For PhD: Monthly (KRW 1,600,000 per month for PhD)
+	- For MS-PhD: (KRW 1,100,000 in first 2 years MS, then KRW 1,600,000 for PhD)
+	* Extraordinary students will get higher salary after the final interview/evaluation
+	• PhD: can get up to KRW 2,000,000
+	• MS-PhD can get up to KRW 1,500,000 (in first 2 years, then 2,000,000 for PhD)
+
+2022 Opening Notice
+	o (Other benefits)
+		- Opportunities to attend international conferences oversea paid by research funding
+	o (Incentive)
+		- During PhD, additional incentive will be given when outstanding performance (paper publications)
+• MS/PhD requirement
+	o (Papers)
+	- For PhD, two papers such as IEEE JSSC, IEEE TCAS1 or IEEE TCAS2 or same as three IEEE
+
+Access papers during PhD (3 years)
+	- For MS/PhD-combined, four IEEE Access papers during MS/PhD-combined. (4-4.5 years)
+	• Deadline: 4/15/2022
+	o Potential candidates can contact me directly (gsbyun@inha.ac.kr) for more information. If you are interested in joining, please send your resume, master and bachelor transcripts and degrees, official English score directly to Prof. Gyungsu Byun.
+
+• Contact Information
+Gyungsu Byun, Ph.D
+Professor
+Department of Electronic and Computer Engineering (ECE)
+Inha University.
+@@Thông tin thêm: Lab hiện có 03 PhD người Việt sẽ là một lợi thế cho các bạn trong việc làm hồ sơ.
+@@Các bạn cần thêm thông tin về Lab, Giáo Sư...có thể gửi email trực tiếp cho Giáo hoặc cho tôi (ltgiang@inha.edu) hoặc inbox trực tiếp.
